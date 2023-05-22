@@ -16,9 +16,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
  <a href = "mailto:helenmartins4511@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/helen-martins-505263209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/martinshelen88" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
-       
-      ![Snake animation](https://github.com/helenlmartins/helenlmartins/blob/output/github-contribution-grid-snake.svg)
-
+ 
  </div>
+       
+ ![Snake animation](https://github.com/helenlmartins/helenlmartins/blob/output/github-contribution-grid-snake.svg)
  
  
