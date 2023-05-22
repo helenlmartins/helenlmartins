@@ -1,8 +1,6 @@
 ### Hi there  eu sou a Helen Martins
 
 - 🌱 I’m currently learning  HTML e CSS
-- 📫 Contate-me pelo email: helenmartins4511@gmail.com
-- 😄 Pronouns: ela/dela
 
 <div>
   <a href="https://github.com/helenlmartins">
